@@ -25,7 +25,7 @@ Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)**
 ## 🔥 Highlight Projects
 
 ### 1) AI Retail Shelf Detector — YOLOv8 (Production prototype)  
-**Repo:** [(https://github.com/Kalana-Gayan/AI-shelf-detector)]  
+**Repo:** [Rack Detector](https://github.com/Kalana-Gayan/AI-shelf-detector)  
 **Live demo:** [Demo](https://huggingface.co/spaces/Gayan32/Rack_Detector)  
 **One-liner:** End-to-end pipeline: semi-auto labeling → train → deploy.  
 **Key metrics:** trained on **300+ images**, mAP50 ≈ **0.84**, inference ~**1s**/image (T4).  
@@ -59,7 +59,7 @@ Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)**
 - Clone any repo → follow README.  
 - Quick run:  
 ```bash
-git clone https://github.com/yourusername/AI-shelf-detector.git
+git clone https://github.com/Kalana-Gayan/AI-shelf-detector.git
 cd AI-shelf-detector
 pip install -r requirements.txt
 python inference.py --weights model/best.pt --source demo/in_001.jpg --save-result
