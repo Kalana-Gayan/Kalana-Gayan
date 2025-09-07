@@ -52,7 +52,7 @@ Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)**
 
 ### 4) Dataset Labeling Demo (CVAT + Segmentation)  
 **Repo:** [(https://github.com/Kalana-Gayan/Dataset-Labeling-Demo)]  
-**One-liner:** Pixel-perfect segmentation examples exported to COCO format.  
+**One-liner:** Pixel-perfect segmentation examples exported to YOLO format.  
 **Screenshots:** ![segmented](https://github.com/Kalana-Gayan/Dataset-Labeling-Demo/blob/ab6f7c0d9833f11322783aa9887fc3f50acc9a04/samples/segmented_rack01.png)
 
 ---
@@ -65,3 +65,11 @@ git clone https://github.com/Kalana-Gayan/AI-shelf-detector.git
 cd AI-shelf-detector
 pip install -r requirements.txt
 python inference.py --weights model/best.pt --source demo/in_001.jpg --save-result
+```
+## 📈 Why hire me
+
+- I deliver end-to-end pipelines (data → model → UI) that save time and integrate into real workflows (CVAT, exports, Gradio).
+- I focus on automation and robustness — not toy demos.
+## 📬 Contact / Hire
+Email: kalanagayan@protonmail.com
+Fiverr: [[link](https://www.fiverr.com/s/LdXX954)]
