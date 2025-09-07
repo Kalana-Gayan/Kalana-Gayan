@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 # Kalana Gayan  — AI & Data Pipelines
 
 Hi — I'm Gayan. I build AI pipelines that turn messy images into production-ready models and deployable apps.  
-Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)** • Contact: kalanagayan@protonmail.com
+Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)**
+• Contact: kalanagayan@protonmail.com
 
 ---
 
