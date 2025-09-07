@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Gayan Mukuru — AI & Data Pipelines
+# Kalana Gayan  — AI & Data Pipelines
 
 Hi — I'm Gayan. I build AI pipelines that turn messy images into production-ready models and deployable apps.  
 Live demo: **[(https://huggingface.co/spaces/Gayan32/Rack_Detector)]** • Contact: kalanagayan@protonmail.com
@@ -41,16 +41,16 @@ Live demo: **[(https://huggingface.co/spaces/Gayan32/Rack_Detector)]** • Conta
 ---
 
 ### 3) Dataset Wrangler (Resizer / Splitter / Augment)  
-**Repo:** [github.com/yourusername/dataset-wrangler]  
-**One-liner:** Small toolkit of scripts to rename, resize (640×640), split, and augment datasets.  
-**Run demo:** `python resize_images.py --input demo/ --output resized/`
+**Repo:** [(https://github.com/Kalana-Gayan/dataset-wrangler)]  
+**One-liner:** Small toolkit of scripts to rename, datacleanup, split, and class balance, datasets.  
+**Run demo:** `python cleanup_dataset.py --dir /path/to/folder [--dry-run]`
 
 ---
 
 ### 4) Dataset Labeling Demo (CVAT + Segmentation)  
-**Repo:** [github.com/yourusername/Dataset-labeling-Demo]  
+**Repo:** [(https://github.com/Kalana-Gayan/Dataset-Labeling-Demo)]  
 **One-liner:** Pixel-perfect segmentation examples exported to COCO format.  
-**Screenshots:** ![segmented](samples/segmented_rack.jpg)
+**Screenshots:** ![segmented]((https://github.com/Kalana-Gayan/Dataset-Labeling-Demo/blob/ab6f7c0d9833f11322783aa9887fc3f50acc9a04/samples/segmented_rack01.png))
 
 ---
 
