@@ -24,7 +24,7 @@ Live demo: **[(https://huggingface.co/spaces/Gayan32/Rack_Detector)]** • Conta
 ## 🔥 Highlight Projects
 
 ### 1) AI Retail Shelf Detector — YOLOv8 (Production prototype)  
-**Repo:** [[github.com/yourusername/AI-shelf-detector](https://github.com/Kalana-Gayan/AI-shelf-detector)]  
+**Repo:** [(https://github.com/Kalana-Gayan/AI-shelf-detector)]  
 **Live demo:** [(https://huggingface.co/spaces/Gayan32/Rack_Detector)]  
 **One-liner:** End-to-end pipeline: semi-auto labeling → train → deploy.  
 **Key metrics:** trained on **300+ images**, mAP50 ≈ **0.84**, inference ~**1s**/image (T4).  
@@ -36,7 +36,7 @@ Live demo: **[(https://huggingface.co/spaces/Gayan32/Rack_Detector)]** • Conta
 **Repo:** [https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO]  
 **One-liner:** Model pre-label → CVAT import → human correct = **5–6x** faster labeling.  
 **What I did:** convert model outputs → CVAT format + upload automation.  
-**Screenshots:** ![before](https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/raw_images/52128488.png) ![after]((https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/predictions/52128488.jpg))
+**Screenshots:** ![before](https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/raw_images/52128488.png) ![after](https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/predictions/52128488.jpg)
 
 ---
 
