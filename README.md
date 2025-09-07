@@ -53,7 +53,7 @@ Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)**
 ### 4) Dataset Labeling Demo (CVAT + Segmentation)  
 **Repo:** [(https://github.com/Kalana-Gayan/Dataset-Labeling-Demo)]  
 **One-liner:** Pixel-perfect segmentation examples exported to COCO format.  
-**Screenshots:** ![segmented]((https://github.com/Kalana-Gayan/Dataset-Labeling-Demo/blob/ab6f7c0d9833f11322783aa9887fc3f50acc9a04/samples/segmented_rack01.png))
+**Screenshots:** ![segmented](https://github.com/Kalana-Gayan/Dataset-Labeling-Demo/blob/ab6f7c0d9833f11322783aa9887fc3f50acc9a04/samples/segmented_rack01.png)
 
 ---
 
