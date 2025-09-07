@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Kalana Gayan  — AI & Data Pipelines
 
 Hi — I'm Gayan. I build AI pipelines that turn messy images into production-ready models and deployable apps.  
-Live demo: **[(https://huggingface.co/spaces/Gayan32/Rack_Detector)]** • Contact: kalanagayan@protonmail.com
+Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)** • Contact: kalanagayan@protonmail.com
 
 ---
 
@@ -25,7 +25,7 @@ Live demo: **[(https://huggingface.co/spaces/Gayan32/Rack_Detector)]** • Conta
 
 ### 1) AI Retail Shelf Detector — YOLOv8 (Production prototype)  
 **Repo:** [(https://github.com/Kalana-Gayan/AI-shelf-detector)]  
-**Live demo:** [(https://huggingface.co/spaces/Gayan32/Rack_Detector)]  
+**Live demo:** [Demo](https://huggingface.co/spaces/Gayan32/Rack_Detector)  
 **One-liner:** End-to-end pipeline: semi-auto labeling → train → deploy.  
 **Key metrics:** trained on **300+ images**, mAP50 ≈ **0.84**, inference ~**1s**/image (T4).  
 **Demo GIF:** ![demo](path/to/demo_shelf.gif)
@@ -33,7 +33,7 @@ Live demo: **[(https://huggingface.co/spaces/Gayan32/Rack_Detector)]** • Conta
 ---
 
 ### 2) Semi-Auto Labeling Pipeline (CVAT + YOLO)  
-**Repo:** [https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO]  
+**Repo:** [Lable Pipeline](https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO)  
 **One-liner:** Model pre-label → CVAT import → human correct = **5–6x** faster labeling.  
 **What I did:** convert model outputs → CVAT format + upload automation.  
 **Screenshots:** ![before](https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/raw_images/52128488.png) ![after](https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/predictions/52128488.jpg)
@@ -41,7 +41,7 @@ Live demo: **[(https://huggingface.co/spaces/Gayan32/Rack_Detector)]** • Conta
 ---
 
 ### 3) Dataset Wrangler (Resizer / Splitter / Augment)  
-**Repo:** [(https://github.com/Kalana-Gayan/dataset-wrangler)]  
+**Repo:** [Dataset Wrangler](https://github.com/Kalana-Gayan/dataset-wrangler)  
 **One-liner:** Small toolkit of scripts to rename, datacleanup, split, and class balance, datasets.  
 **Run demo:** `python cleanup_dataset.py --dir /path/to/folder [--dry-run]`
 
