@@ -72,4 +72,5 @@ python inference.py --weights model/best.pt --source demo/in_001.jpg --save-resu
 - I focus on automation and robustness — not toy demos.
 ## 📬 Contact / Hire
 Email: kalanagayan@protonmail.com
-Fiverr: [[link](https://www.fiverr.com/s/LdXX954)]
+
+Fiverr: [(https://www.fiverr.com/s/LdXX954)]
