@@ -40,7 +40,7 @@ Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)**
 **Repo:** [Lable Pipeline](https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO)  
 **One-liner:** Model pre-label → CVAT import → human correct = **5–6x** faster labeling.  
 **What I did:** convert model outputs → CVAT format + upload automation.  
-**Screenshots:** https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/raw_images/52128488.png ,
+**Screenshots:** https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/raw_images/52128488.png" /> ,
 <img width="1177" height="694" alt="Screenshot from 2025-09-10 14-51-44" src="https://github.com/user-attachments/assets/3e5fbe82-04e1-4981-80f6-b2b3c72bcdaf" />
 
 
