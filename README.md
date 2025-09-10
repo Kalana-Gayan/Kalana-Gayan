@@ -30,7 +30,9 @@ Live demo: **[Click](https://huggingface.co/spaces/Gayan32/Rack_Detector)**
 **Live demo:** [Demo](https://huggingface.co/spaces/Gayan32/Rack_Detector)  
 **One-liner:** End-to-end pipeline: semi-auto labeling → train → deploy.  
 **Key metrics:** trained on **300+ images**, mAP50 ≈ **0.84**, inference ~**1s**/image (T4).  
-**Demo GIF:** ![demo](path/to/demo_shelf.gif)
+**Screenshots:** ![before](<img width="1003" height="715" alt="Screenshot from 2025-09-10 14-34-11" src="https://github.com/user-attachments/assets/206b6b13-fce7-4324-909c-90e94313e113" />)
+ <img width="1431" height="772" alt="Screenshot from 2025-09-10 14-34-54" src="https://github.com/user-attachments/assets/ddffe2e3-62d6-4212-94ec-59bc814d9ccb" />
+
 
 ---
 
