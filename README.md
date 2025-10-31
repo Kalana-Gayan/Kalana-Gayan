@@ -42,7 +42,7 @@ This pipeline solves the biggest bottleneck in AI: labeling. Instead of labeling
 ### 3) AI Document Chatbot (RAG API)
 This is the core technology for "Chat with your PDF" gigs. It's a backend API that uses a Large Language Model (LLM) to answer natural language questions about a private document.
 
-* **Repo:** [pdf_chat_api](https://github.com/Kalana-Gayan/pdf_chat_api)
+* **Repo:** [pdf_chat_api](https://github.com/Kalana-Gayan/Chat-with-your-PDF-API-RAG-Portfolio-Project-)
 * **Tech Stack:** `FastAPI`, `LangChain`, `OpenAI`, `ChromaDB` (Vector Store)
 * **What it does:**
     1.  **`POST /upload`**: An endpoint to upload a PDF. The API splits it, creates vector embeddings, and saves them in a **ChromaDB** vector store.
@@ -51,7 +51,7 @@ This is the core technology for "Chat with your PDF" gigs. It's a backend API th
 ### 4) E-commerce Deal Finder Bot (Full Data Pipeline)
 An automated bot that scrapes 6pm.com for high-value deals and delivers them to a user in real-time.
 
-* **Repo:** [6pm_product_scrapper](https://github.com/Kalana-Gayan/6pm_product_scrapper)
+* **Repo:** [6pm_product_scrapper](https://github.com/Kalana-Gayan/6pm.com-Automated-Deal-Finder-Bot)
 * **Tech Stack:** `Python`, `Selenium-Stealth`, `Google Sheets API`, `Telegram API`
 * **What it does:**
     1.  Uses **Selenium** to scrape a dynamic JavaScript-heavy website.
