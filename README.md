@@ -1,4 +1,4 @@
-# Kalana Gayan — AI & Automation Architect
+    # Kalana Gayan — AI & Automation Architect
 
 Hi — I'm Gayan. I'm a **Retail Annotation Expert** (my day job at Trax Retail) who builds the **AI-powered automation pipelines** that will define the future of this industry.
 
@@ -37,7 +37,7 @@ This pipeline solves the biggest bottleneck in AI: labeling. Instead of labeling
 
 | YOLO Pre-Labeling | Data Ready for CVAT Correction |
 | :---: | :---: |
-| <img width="800" alt="YOLO model pre-labeling new images" src="https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/raw_images/52128488.png" /> | <img width="800" alt="Pre-labeled data imported into CVAT for human correction" src="https://github.com/user-attachments/assets/3e5fbe82-0441-4981-80f6-b2b3c72bcdaf" /> |
+| <img width="800" alt="YOLO model pre-labeling new images" src="https://github.com/Kalana-Gayan/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO/blob/c5beb3b97d2dd5b4a97819f58d83dadee641d274/raw_images/52128488.png" /> | <img width="800" alt="Pre-labeled data imported into CVAT for human correction" src="https://github.com/user-attachments/assets/3e5fbe82-04e1-4981-80f6-b2b3c72bcdaf" /> |
 
 ### 3) AI Document Chatbot (RAG API)
 This is the core technology for "Chat with your PDF" gigs. It's a backend API that uses a Large Language Model (LLM) to answer natural language questions about a private document.
